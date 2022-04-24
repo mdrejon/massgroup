@@ -1,0 +1,366 @@
+/*Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+
+
+}
+
+/*Tablet Layout: 786px. */
+.boxed-btn {
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 991px){
+.main-menu {
+    display: none;
+    visibility: hidden;
+}
+.slicknav_menu {
+  display: block !important;
+  visibility: visible !important;
+}
+
+#service {
+    min-height: 466px;
+}
+
+.single-protfolio {
+  height: 300px;
+}
+.single-protfolio {
+  background-size: 150% !important;
+}
+.slicknav_item.slicknav_row a svg {
+  display: none;
+}
+#cta h4 {
+  font-size: 14px;
+}
+#cta h2 {
+  font-size: 23px;
+}
+#cta .boxed-btn {
+  padding: 6px;
+  font-size: 9px;
+  margin-top: 31px;
+}
+.main-menu.mobile-menu {
+  display: none;
+  visibility: hidden;
+}
+.slicknav_menu {
+  position: fixed;
+  z-index: 100;
+  right: 0;
+  top: 45px;
+}
+.slicknav_menutxt {
+  /*! display: none !important; */
+  /*! visibility: hidden; */
+}
+.slicknav_nav {
+  background-color: #303745;
+}
+.slicknav_menutxt {
+  display: none !important;
+}
+a {
+}
+.slicknav_nav a {
+  background-color: #303745;
+  margin: 0;
+  color: ;
+}
+.slicknav_nav a:hover {
+  color: #E88E2E;
+  background-color: transparent;
+}
+.slicknav_item.slicknav_row:hover {
+  background-color: transparent;
+}
+.slicknav_nav {
+  width: 335px;
+}
+.slicknav_btn {
+  background-color: transparent;
+}
+.slicknav_menu {
+    display: block;
+}
+
+.service-img img {
+  font-size: ;
+  height: 38px !important;
+}
+.service-img {
+  margin: 0 !important;
+}
+.section-title {
+  margin-top: 16px;
+}
+.single-service.text-center {
+  margin: 6px;
+}
+
+.client {
+  margin-bottom: 38px;
+}
+.section-title h2 {
+  font-size: 27px;
+  margin: 0;
+}
+.section-title {
+  margin: 9px;
+}
+
+
+}
+
+/*mobile Layout: 320px. */
+
+@media only screen and (max-width: 575px){
+  .footer-height {
+  padding: 0 !important;
+}
+  .about2 .absulate-bg {
+    display: none;
+    visibility: hidden;
+}
+#header .contact-info {
+  width: 100%;
+  float: left;
+}
+.social-links.text-right {
+  margin-top: -28px;
+}
+#cta a {
+  margin-top: 0 !important;
+}
+
+.footer-widget {
+  margin-bottom: 24px;
+}
+.top-header {
+  height: 62px;
+  text-align: center;
+}
+.social-links.text-right {
+  text-align: center !important;
+}
+.main-menu {
+    display: none;
+    visibility: hidden;
+}
+.main-menu {
+    display: none;
+    visibility: hidden;
+}
+.slicknav_menu {
+  display: block !important;
+  visibility: visible !important;
+}
+
+.main-menu.mobile-menu {
+  display: none;
+  visibility: hidden;
+}
+.slicknav_menu {
+  position: fixed;
+  z-index: 100;
+  right: 0;
+  top: 45px;
+}
+.slicknav_menutxt {
+  /*! display: none !important; */
+  /*! visibility: hidden; */
+}
+.slicknav_nav {
+  background-color: #303745;
+}
+.slicknav_menutxt {
+  display: none !important;
+}
+a {
+}
+.slicknav_nav a {
+  background-color: #303745;
+  margin: 0;
+  color: ;
+}
+.slicknav_nav a:hover {
+  color: #E88E2E;
+  background-color: transparent;
+}
+.slicknav_item.slicknav_row:hover {
+  background-color: transparent;
+}
+.slicknav_nav {
+  width: 335px;
+}
+.slicknav_btn {
+  background-color: transparent;
+}
+.dropdown:hover ul {
+  display: block;
+  visibility: visible;
+}
+.dropdown.slicknav_hidden {
+  /*! display: block !important; */
+  /*! visibility: visible; */
+  /*! z-index: 500; */
+}
+
+
+
+
+.client {
+  margin-bottom: 20px;
+}
+.boxed-btn {
+  margin-bottom: 20px;
+}
+.about-single-slider {
+  background-size: cover;
+  background-position: center top;
+  width: 400px;
+}
+/*.section-title {
+  margin: 31px;
+}*/
+.accordion-area {
+  margin-bottom: 40px;
+}
+#service {
+  min-height: 1200px !important;
+}
+#service img {
+  height: 200px;
+  margin: ;
+  padding: ;
+  margin: 0 25%;
+}
+.service-img img {
+  scale: ;
+  height: 49px !important;
+}
+.single-service {
+  margin: 8px;
+}
+.single-service a {
+  font-size: 18px;
+}
+.porfolio-filter li {
+  font-size: 14px;
+}
+.portfolio-inner {
+  width: ;
+}
+.single-protfolio.bg-1 {
+  background-size: cover;
+  width: 100%;
+}
+.single-slider h3 {
+  font-size: 18px !important;
+}
+.single-slider h1 {
+  font-size: 38px;
+}
+.single-slider a {
+  margin-top: 0;
+}
+/*.single-slider {
+  padding-top: 172px;
+}*/
+
+
+
+}
+
+
+
+/*wide Layout: 480px. */
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+  .skltbs-tab-item, .skltbs-tab-item button {
+    width: 307px !important;
+
+
+}
+.main-menu {
+    display: none;
+    visibility: hidden;
+}
+/*.slicknav_menu {
+  display: block !important;
+  visibility: visible !important;
+}*/
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+ .main-menu {
+    display: none;
+    visibility: hidden;
+}
+
+  .about2 .absulate-bg {
+    display: none;
+    visibility: hidden;
+}
+#service {
+  min-height: 773px;
+}
+.bg-gray img {
+  height: 254px !important;
+  margin: 0 25%;
+}
+.main-menu.mobile-menu {
+  display: none;
+  visibility: hidden;
+}
+.slicknav_menu {
+  position: fixed;
+  z-index: 100;
+  right: 0;
+  top: 45px;
+}
+.service-img img {
+  font-size: ;
+  height: 38px !important;
+}
+.slicknav_menutxt {
+  /*! display: none !important; */
+  /*! visibility: hidden; */
+}
+.slicknav_nav {
+  background-color: #303745;
+}
+.slicknav_menutxt {
+  display: none !important;
+}.slicknav_nav a {
+  background-color: #303745;
+  margin: 0;
+  color: ;
+}
+.slicknav_nav a:hover {
+  color: #E88E2E;
+  background-color: transparent;
+}
+.slicknav_item.slicknav_row:hover {
+  background-color: transparent;
+}
+.slicknav_nav {
+  width: 335px;
+}
+.slicknav_btn {
+  background-color: transparent;
+}
+.dropdown:hover ul {
+  display: block;
+  visibility: visible;
+}
+.dropdown.slicknav_hidden {
+  /*! display: block !important; */
+  /*! visibility: visible; */
+  /*! z-index: 500; */
+}
+}
+

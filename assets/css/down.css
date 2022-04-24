@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  a.angle-down-btn:hover {
+        opacity: 1;
+  }
+    
+  a.angle-down-btn {
+        font-size: 20px;
+        width: 35px;
+        height: 35px;
+        background-color: #3FBE00;
+        display: inline-block;
+        color: #fff;
+        position: absolute;
+        left: 50%;
+        bottom: 8px;
+        text-align: center;
+        border-radius: 50%;
+        line-height: 39px;
+        opacity: .8;
+        transition: .3s;
+        z-index: 99;
+  }

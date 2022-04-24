@@ -1,0 +1,546 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 1024px) and (max-width: 1280px) { 
+  .left-logo img {
+    width: 70px;
+}
+    .left-logo {
+    left: -20px;
+}
+    .news-single-left-one p, .news-single-right-two p, .news-single-left-three p {
+    padding: 13px 13px 13px 13px;
+}
+    .architect-img img {
+    top: -1px;
+    left: 81px;
+}
+    .socil-icon button.owl-next {
+    right: -110px;
+}
+    .socil-icon button.owl-prev {
+    left: -190px;
+}
+    .col-6.change {
+    display: none;
+}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 1023px) { 
+ 
+    
+    .squery-left-area {
+    margin-right: -75px;
+}
+      .left-logo img {
+    width: 70px;
+}
+    .left-logo {
+    left: -10px;
+}
+    .col-6.change {
+    display: none;
+}
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ .plam-right-area {
+    margin-left: -52px;
+    margin-top: 0;
+}
+    .plam-right-img {
+    margin-bottom: 5px;
+}
+    .plam-single-img img {
+    width: 80px;
+}
+    .plam-content {
+    padding-left: 5px;
+}
+    .plam-content h3 {
+    font-size: 13px;
+    margin: 0;
+}
+    .plam-content a {
+    padding: 3px 12px;
+    font-size: 10px;
+}
+    .left-menu li a {
+    font-size: 12px;
+    padding: 3px;
+}
+    .squery-left-area .plam-right-img {
+    margin-bottom: 5px;
+    margin-right: -100px;
+}
+    .squery-left-area {
+    margin-top: 0;
+}
+    .squery-left-area .plam-content {
+    padding-right: 0px;
+}
+    .right-logo a img {
+    width: 40px;
+}
+    .logo a img {
+    width: 100px;
+}
+    .left-logo img {
+    width: 70px;
+}
+    .left-logo {
+    left: 0px;
+}
+    
+/*home-page*/
+    
+    .left-menu {
+    display: none;
+}
+    .section-title h2, .our-values-area .section-title h2 {
+    font-size: 20px;
+}
+    .section-title {
+    font-size: 14px;
+    padding-left: 0px;
+}
+    .section-title p {
+    font-size: 16px;
+}
+/*
+    .our-values-area .section-title p {
+    font-size: 16px;
+}
+*/
+    .story-content p {
+    padding: 20px;
+    font-size: 10px;
+}
+    .story-single-img img {
+    width: 100%;
+}
+    .we-create-slider-area .owl-nav button.owl-next, .slider .owl-nav button.owl-next {
+    right: -13px;
+}
+    .our-story-area, .our-values-area, .our-news-area, .our-gallery-area, .our-social-area, .our-testimonial-area, .our-perfection-area, .our-vision-area, .we-create-area-bg.logo, .our-associate-area, .csr-area, .plam-spring-area, .slider-area, .distances-area, .landowner-form-area, .layout-area {
+    height: auto;
+}
+    .we-logo-slider-area .owl-nav button.owl-next {
+    margin-top: -19px;
+}
+    .img-1 {
+    height: 150px;
+}
+    .img-1 a h2 {
+    padding-top: 12%;
+}
+    .story-content {
+    width: 100%;
+    border-radius: 10px 0px 0px 0px;
+    margin-left: 0px;
+}
+    .single-value-content p {
+    font-size: 12px;
+    line-height: 1.4;
+}
+    .single-value-content img {
+    margin-bottom: 5px;
+}
+    .our-values-area {
+    padding: 0px 0px 0px 0px;
+}
+    .values-area-content {
+    padding: 50px 0px;
+}
+    .news-single-right-four {
+    padding: 14px;
+}
+    .news-single-right-four p {
+    font-size: 10px;
+}
+    .news-single-right-area, .news-single-left-area {
+    width: 100%;
+}
+    .news-single-left-one p, .news-single-right-two p, .news-single-left-three p {
+    padding: 13px;
+    font-size: 9px;
+}
+    .media-img img {
+    right: 10px;
+    top: -110px;
+}
+   .our-media-area .section-title p {
+    font-size: 12px;
+    width: 100%;
+    padding-left: 0px;
+} 
+    .media-area {
+    padding: 30px 0px 30px 0px;
+}
+    .gallery-area {
+    padding: 10px 0px;
+}
+    .gallery-img img {
+    right: 0px;
+    bottom: 0px;
+    width: 100px;
+}
+    .socil-icon {
+    left: 62%;
+    margin-top: -125px;
+}
+    .socil-icon button.owl-next {
+    position: absolute;
+    top: 20%;
+    right: 0px;
+}
+    .socil-icon button.owl-prev {
+    position: absolute;
+    left: -70px;
+    top: 21%;
+}
+    .socil-icon button.owl-prev i, .socil-icon button.owl-next i {
+    font-size: 30px;
+}
+    .single-icon a i {
+    font-size: 50px;
+}
+    .architect-img img {
+    width: 70% !important;
+    top: 49px;
+    left: 68px;
+}
+    .aritect-single-slide {
+    padding: 0px;
+}
+    .architect-area {
+    padding: 10px 0px;
+}
+    .we-architect-area-bg {
+    height: 350px;
+}
+    .architect-right-content h3 {
+    font-size: 13px;
+}
+    .architect-right-content span {
+    font-size: 12px;
+}
+    .architect-right-content p {
+    font-size: 9px;
+}
+    .architect-right-content {
+    padding-top: 0px;
+}
+    .aritect-slide button.owl-prev, .aritect-slide button.owl-next {
+    width: 30px;
+    height: 30px;
+}
+    .aritect-slide button.owl-prev i, .aritect-slide button.owl-next i {
+    font-size: 18px;
+}
+    .aritect-slide .owl-nav {
+    margin-top: -120px;
+}
+    .talk-to-us-area h2 {
+    margin-bottom: 30px;
+}
+    .tesimonial-img {
+    margin-top: 20px;
+}
+    .testimonial-content p {
+    font-size: 9px;
+}
+    .testimonial-left-img img, .testimonial-right-img img {
+    width: 30px !important;
+}
+    .testimonial-content {
+    margin-left: 0px;
+    height: 200px;
+    margin-right: 0px;
+}
+    .review {
+    margin-top: 0px;
+}
+    .testimony-right-content span, .testimony-right-content .review {
+    padding-left: 0px;
+    font-size: 10px;
+}
+    .testimony-right-content h3 {
+    font-size: 10px;
+    padding-left: 0px;
+}
+    .aritect-slide.testimonial .owl-nav {
+    margin-top: 0px;
+}
+    .our-testimonial-area, .talk-to-us-area {
+    padding: 0px;
+}
+    .we-create-slider-area {
+    padding: 20px 0px 20px 0px;
+}
+    
+/*about-page-css*/
+    .story-content-right-2 {
+    padding-right: 10px;
+}
+    .about .story-content p {
+    font-size: 9px;
+}
+.story-content-left {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+    .story-content p {
+    margin-top: 0px;
+}
+    .story-content-left {
+    margin-bottom: 0px;
+}
+    .story-content-right-1 {
+    padding-left: 10px;
+}
+    .about .story-content, .about .story-single-img img, .perfection-single-img img, .associate .story-content, .associate .story-single-img img, .about .owl-carousel .owl-item img {
+    width: 100%;
+}
+    .story-right-area.about {
+    margin-top: 0px;
+}
+    .counter-area {
+    text-align: center;
+    position: unset;
+    margin-top: 20px;
+}
+    .counter-area h2 {
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+    .counter-area p {
+    font-size: 12px;
+    line-height: 18px;
+}
+    .vision-img img {
+    width: 100%;
+    height: 150px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+    .vision-right-content h2 {
+    font-size: 14px;
+}
+    .vision-right-content span {
+    font-size: 13px;
+}
+    .we-create-area-bg.logo {
+    padding: 0px 0px 10px 0px;
+}
+.we-logo-slider-area.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    padding: 30px 0px 10px 0px;
+    width: 100%;
+    margin-top: 20px;
+}
+    .associate-single-img {
+    padding-left: 0;
+    width: 100%;
+    margin-top: 20px;
+}
+    .associate-single-img img {
+    width: 70px;
+    margin-right: 21px;
+}
+.associate .story-content {
+    border-radius: 0px 0px 0px 0px;
+    margin-left: 0px;
+    height: unset;
+    padding: 20px 10px 20px 0px;
+    margin-top: -50px;
+}
+    .csr-area {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+    .project-area-right {
+    padding: 10px 0px;
+}
+    .csr-content h3 {
+    font-size: 16px;
+}
+    .csr-content p {
+    font-size: 11px;
+}
+    .create-content h3 {
+    padding-right: 0px;
+}
+    .footer-pading-left {
+    padding-left: 0px;
+}
+    .footer-area h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+    .address {
+    margin-bottom: 10px;
+}
+    .address p {
+    font-size: 12px;
+}
+    .story-right-area.about {
+    margin-top: 0px;
+}
+
+.col-6.change {
+    display: none;
+}
+    .our-vision-area .story-right-area.about {
+    margin-top: -70px;
+}
+    .footer-area {
+    padding: 20px 0px;
+}
+    
+/*plam-area-css*/
+    
+    .plam-spring-content {
+    margin-top: 10px;
+}
+    .plam-spring-content h4, .plam-spring-content p {
+    padding-left: 5px;
+    font-size: 10px;
+}
+    .plam-spring-img-one img {
+    height: 140px;
+    width: 100%;
+}
+    .plam-spring-img-two img {
+        height: 150px;
+        float: right;
+}
+    .plam-spring-area-img {
+    width: 50%;
+    height: 100px;
+    bottom: -130px;
+    left: 16px;
+}
+    .slider .owl-nav button.owl-prev {
+    left: -13px;
+    top: 55%;
+}
+    .slider .owl-nav button.owl-next {
+    top: 55%;
+}
+    .slider .owl-nav button i {
+    font-size: 40px;
+}
+    .overview-left-content table tr, td {
+    font-size: 10px;
+        padding: 0px 10px;
+}
+    .overview-left-content {
+    margin-top: 10px;
+}
+    .overview-right-content img {
+    height: 250px;
+    margin-top: 0px;
+}
+    .overview-counter-1 h2, .overview-counter-2 h2 {
+    font-size: 20px;
+}
+    .layout-area .section-title {
+    margin-bottom: 10px;
+}
+    .layout-left-content img {
+    height: 120px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+    .layout-counter {
+    background-color: #fff;
+    padding: 5px;
+}
+    .layout-counter h2 {
+    font-size: 20px;
+    margin: 0;
+}
+    .layout-counter p {
+    margin-top: -30px;
+    margin-left: 60px;
+        font-size: 20px;
+}
+    .layout-counter span.color {
+    margin-top: -0px;
+    font-size: 10px;
+}
+    .layout-right-content-table table tr, .layout-right-content-table table td {
+    padding: 3px 20px;
+    font-size: 6px;
+}
+    .layout-right-content-table p {
+    font-size: 9px;
+    margin-bottom: 4px;
+}
+    .layout-menu li {
+    font-size: 9px;
+}
+    .layout-menu {
+    margin-bottom: 10px;
+}
+    .distances-content p {
+    margin-top: 8px;
+    font-size: 12px;
+        margin-bottom: 0;
+}
+    .barfiller {
+    height: 5px;
+    margin-bottom: 3px;
+}
+    .distances-content {
+    margin-top: 20px;
+}
+    .distances-area .section-title {
+    padding-top: 10px;
+}
+    .landowner-form-heading h2 {
+    font-size: 12px;
+    margin: 5px 0px;
+}
+    .landowner-form h2 {
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+    label {
+    font-size: 9px;
+    margin-bottom: 0;
+}
+    .landowner-form input, .landowner-form select {
+    font-size: 8px;
+    padding-top: 0px;
+}
+    .landowner-form input[type="submit"] {
+    font-size: 10px;
+    margin-top: 5px;
+}
+    .extra-info {
+    margin-top: 5px;
+}
+    .extra-info p {
+    font-size: 9px;
+    margin-bottom: 2px;
+}
+    .extra-info a {
+    padding: 1px 10px;
+    margin-top: 4px;
+    font-size: 9px;
+}
+    .dwonload-area {
+    display: none;
+}
+    .p-hading-1, .p-hading-2 {
+    font-size: 35px;
+    line-height: 26px;
+    padding-right: 15%;
+}
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
+
+
